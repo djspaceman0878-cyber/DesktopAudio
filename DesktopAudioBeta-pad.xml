@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>3.11</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>Desktop Audio PAD metadata</MASTER_PAD_EDITOR>
+    <MASTER_PAD_INFO>Portable Application Description</MASTER_PAD_INFO>
+  </MASTER_PAD_VERSION_INFO>
+  <Company_Info>
+    <Company_Name>Spaceman</Company_Name>
+    <Address_1 />
+    <Address_2 />
+    <City_Town />
+    <State_Province />
+    <Zip_Postal_Code />
+    <Country />
+    <Company_WebSite_URL>https://vk.ru/club243328418</Company_WebSite_URL>
+    <Contact_Info>
+      <Author_First_Name>Spaceman</Author_First_Name>
+      <Author_Last_Name />
+      <Author_Email>dj_spaceman@mail.ru</Author_Email>
+      <Contact_First_Name>Spaceman</Contact_First_Name>
+      <Contact_Last_Name />
+      <Contact_Email>dj_spaceman@mail.ru</Contact_Email>
+    </Contact_Info>
+    <Support_Info>
+      <Sales_Email />
+      <Support_Email>dj_spaceman@mail.ru</Support_Email>
+      <General_Email>dj_spaceman@mail.ru</General_Email>
+      <Sales_Phone />
+      <Support_Phone />
+      <General_Phone />
+      <Fax_Phone />
+    </Support_Info>
+  </Company_Info>
+  <Program_Info>
+    <Program_Name>Desktop Audio Beta</Program_Name>
+    <Program_Version>0.1.21</Program_Version>
+    <Program_Release_Month>11</Program_Release_Month>
+    <Program_Release_Day>21</Program_Release_Day>
+    <Program_Release_Year>2026</Program_Release_Year>
+    <Program_Cost_Dollars>0.00</Program_Cost_Dollars>
+    <Program_Cost_Other_Code />
+    <Program_Cost_Other />
+    <Program_Type>Freeware</Program_Type>
+    <Program_Release_Status>Beta</Program_Release_Status>
+    <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+    <Program_OS_Support>Windows 11</Program_OS_Support>
+    <Program_Language>Russian</Program_Language>
+    <Program_Change_Info>Separate free Beta edition with its own profile and update channel. Includes the classic cover, one deck and three visualizations. Premium covers, DJ mode and other visualizations are disabled and marked Beta.</Program_Change_Info>
+    <Program_Specific_Category>Audio Players</Program_Specific_Category>
+    <Program_Category_Class>Audio &amp; Multimedia::Audio File Players</Program_Category_Class>
+    <Program_System_Requirements>Windows 11 x64. Internet connection required for internet radio and update checks.</Program_System_Requirements>
+    <File_Info>
+      <Filename_Versioned>DesktopAudioBeta-Setup-v0.1.21.exe</Filename_Versioned>
+      <Filename_Previous />
+      <Filename_Generic />
+      <Filename_Long>DesktopAudioBeta-Setup-v0.1.21.exe</Filename_Long>
+      <File_Size_Bytes>47867904</File_Size_Bytes>
+      <File_Size_K>46746</File_Size_K>
+      <File_Size_MB>45.65</File_Size_MB>
+    </File_Info>
+    <Expire_Info>
+      <Has_Expire_Info>N</Has_Expire_Info>
+      <Expire_Count />
+      <Expire_Based_On>Days</Expire_Based_On>
+      <Expire_Other_Info />
+      <Expire_Month />
+      <Expire_Day />
+      <Expire_Year />
+    </Expire_Info>
+  </Program_Info>
+  <Program_Descriptions>
+    <Russian>
+      <Keywords>аудиоплеер, музыка, интернет-радио, плейлисты, M3U8, эквалайзер, визуализация, Windows 11, Desktop Audio Beta</Keywords>
+      <Char_Desc_45>Бесплатный плеер музыки и интернет-радио</Char_Desc_45>
+      <Char_Desc_80>Музыкальный плеер для Windows 11 с радио, плейлистами и эквалайзером.</Char_Desc_80>
+      <Char_Desc_250>Desktop Audio Beta — бесплатный плеер для Windows 11 x64. Музыкальные файлы, интернет-радио, плейлисты M3U8, очередь воспроизведения, 20-полосный эквалайзер и три визуализации с реакцией на курсор. Без рекламы и навязчивых предложений покупки.</Char_Desc_250>
+      <Char_Desc_450>Desktop Audio Beta — бесплатный музыкальный плеер для Windows 11 x64. Поддерживает аудиофайлы, интернет-радио, плейлисты M3U8, вкладки списков, очередь и историю воспроизведения. Есть 20-полосный эквалайзер с предустановками, ReplayGain, плавные переходы, рейтинги и редактор тегов. Доступны три визуализации с реакцией на курсор. Без рекламы. Использует собственный профиль, независимо от основной редакции.</Char_Desc_450>
+      <Char_Desc_2000>Desktop Audio Beta — отдельная бесплатная редакция музыкального плеера для Windows 11 x64. Основные функции доступны без рекламы и навязчивых предложений покупки.
+
+Музыка и списки: воспроизведение аудиофайлов и интернет-радио, импорт M3U8, перетаскивание файлов, вкладки плейлистов, поиск, множественное выделение, очередь, история, избранное радио и рейтинги треков. При повторном запуске сохраняется последний выбранный трек или станция. Для радио отображаются название станции и передаваемые ею сведения об исполнителе и текущем треке.
+
+Звук: 20-полосный эквалайзер с предустановками и сохранением пользовательских настроек, диапазоны ±6/±12/±24 дБ, привязка соседних полос, тонкомпенсация, бас, стереобаза, выбор устройства вывода, ReplayGain по тегам файлов, предзагрузка и плавные переходы.
+
+Оформление: классическая обложка, настройка цветов и непрозрачности панелей. Бесплатные программные визуализации «Золотые ноты», «Нотные кометы» и «Световой коридор» реагируют на курсор; реакцию можно настроить или отключить.
+
+Дополнительно: редактор тегов, горячие клавиши и таймер сна. Профиль хранится в папке Profile рядом с программой. Beta имеет собственные настройки и канал обновлений. Обложки Porsche и Pioneer, DJ-режим и остальные визуализации в Beta недоступны и помечены соответствующим образом.</Char_Desc_2000>
+    </Russian>
+    <English>
+      <Keywords>audio player, music, internet radio, playlist, M3U8, equalizer, visualization, Windows 11, Desktop Audio Beta</Keywords>
+      <Char_Desc_45>Free music and internet radio player</Char_Desc_45>
+      <Char_Desc_80>Free Windows 11 audio player with radio, playlists and a 20-band equalizer.</Char_Desc_80>
+      <Char_Desc_250>Desktop Audio Beta is a free Windows 11 x64 music player with internet radio, M3U8 playlists, a playback queue, a 20-band equalizer and three cursor-responsive visualizations. No advertising or intrusive purchase prompts.</Char_Desc_250>
+      <Char_Desc_450>Desktop Audio Beta plays audio files and internet radio on Windows 11 x64. Features include M3U8 playlists, playlist tabs, queue, history, ratings, tag editing, a 20-band equalizer with presets, ReplayGain and smooth transitions. Three procedural visualizations respond to the cursor. The free Beta uses its own profile and update channel, independently of the main edition. No advertising.</Char_Desc_450>
+      <Char_Desc_2000>Desktop Audio Beta is a separate free edition of a Windows 11 x64 music player. Core playback features work without advertising or intrusive purchase prompts.
+
+Play local audio files and internet radio, import M3U8 playlists, drag files into playlist tabs and manage a playback queue, history, favorite stations and track ratings. The player remembers the last selected track or station. Radio station names remain visible alongside artist and track metadata supplied by the broadcaster.
+
+Audio features include a 20-band equalizer, factory and user presets, selectable gain ranges, linked adjacent bands, loudness compensation, bass and stereo width controls, output device selection, ReplayGain from file tags, preloading and smooth transitions.
+
+The classic cover includes configurable colors and panel opacity. Three procedural visualizations are available: Golden Notes, Note Comets and Light Corridor. Cursor interaction strength can be adjusted or disabled independently of animation.
+
+Additional features include tag editing, hotkeys and a sleep timer. Settings are stored in the Profile folder beside the application. Beta uses its own profile and update channel. Porsche and Pioneer covers, DJ mode and other visualizations are unavailable in Beta and are marked accordingly.</Char_Desc_2000>
+    </English>
+  </Program_Descriptions>
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>https://github.com/djspaceman0878-cyber/DesktopAudioBeta</Application_Info_URL>
+      <Application_Order_URL />
+      <Application_Screenshot_URL>https://raw.githubusercontent.com/djspaceman0878-cyber/DesktopAudioBeta/main/assets/DesktopAudioBeta-main.png</Application_Screenshot_URL>
+      <Application_Icon_URL>https://raw.githubusercontent.com/djspaceman0878-cyber/DesktopAudioBeta/main/assets/DesktopAudioBeta-icon.png</Application_Icon_URL>
+      <Application_XML_File_URL>https://raw.githubusercontent.com/djspaceman0878-cyber/DesktopAudioBeta/main/DesktopAudioBeta-pad.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>https://github.com/djspaceman0878-cyber/DesktopAudioBeta/releases/download/v0.1.21/DesktopAudioBeta-Setup-v0.1.21.exe</Primary_Download_URL>
+      <Secondary_Download_URL />
+      <Additional_Download_URL_1 />
+      <Additional_Download_URL_2 />
+    </Download_URLs>
+  </Web_Info>
+  <Permissions>
+    <Distribution_Permissions>SoftPortal may host and distribute an unmodified copy of the Desktop Audio Beta 0.1.21 installer. The installer must retain its original contents and author attribution.</Distribution_Permissions>
+    <EULA>Desktop Audio Beta is a free-to-use edition. The classic cover, single-deck playback and three included visualizations are available without advertising or purchase prompts. Porsche and Pioneer covers, DJ mode and the remaining visualizations are not available in this edition. Third-party components retain their respective licenses.</EULA>
+  </Permissions>
+</XML_DIZ_INFO>
