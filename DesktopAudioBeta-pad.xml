@@ -107,9 +107,9 @@ Additional features include tag editing, hotkeys and a sleep timer. Settings are
     <Application_URLs>
       <Application_Info_URL>https://github.com/djspaceman0878-cyber/DesktopAudioBeta</Application_Info_URL>
       <Application_Order_URL />
-      <Application_Screenshot_URL>https://raw.githubusercontent.com/djspaceman0878-cyber/DesktopAudioBeta/main/assets/DesktopAudioBeta-main.png</Application_Screenshot_URL>
-      <Application_Icon_URL>https://raw.githubusercontent.com/djspaceman0878-cyber/DesktopAudioBeta/main/assets/DesktopAudioBeta-icon-512.png</Application_Icon_URL>
-      <Application_XML_File_URL>https://raw.githubusercontent.com/djspaceman0878-cyber/DesktopAudioBeta/main/DesktopAudioBeta-pad.xml</Application_XML_File_URL>
+      <Application_Screenshot_URL>https://djspaceman0878-cyber.github.io/DesktopAudioBeta/assets/DesktopAudioBeta-main.png</Application_Screenshot_URL>
+      <Application_Icon_URL>https://djspaceman0878-cyber.github.io/DesktopAudioBeta/assets/DesktopAudioBeta-icon-512.png</Application_Icon_URL>
+      <Application_XML_File_URL>https://djspaceman0878-cyber.github.io/DesktopAudioBeta/DesktopAudioBeta-pad.xml</Application_XML_File_URL>
     </Application_URLs>
     <Download_URLs>
       <Primary_Download_URL>https://github.com/djspaceman0878-cyber/DesktopAudioBeta/releases/download/v0.1.21/DesktopAudioBeta-Setup-v0.1.21.exe</Primary_Download_URL>
